@@ -1,0 +1,13 @@
+
+.head{
+  background: red;
+  width: 100%;
+  height:20px;
+  margin-top:20px;
+  display: flex;
+  justify-content: space-around;
+}
+.head a {
+  color: #fff;
+  text-decoration: none;
+}
